@@ -5,3 +5,4 @@ gemfiles/*.lock
 tmp/
 /vendor/bundle
 log
+.idea
